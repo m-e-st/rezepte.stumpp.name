@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: Rezeptsammlung
 authorInTitle: true
 metaTitle: Home
-highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
-highlightedLinkText: All my favourite recipes
+highlightedTag: Favorit ⭐
+highlightedTitle: Einige Lieblingsrezepte
+highlightedLinkText: Alle Lieblingsrezepte
 ---

@@ -1,6 +1,20 @@
 ![My Online Cookbook logo](https://raw.githubusercontent.com/maeligg/my-online-cookbook/main/github-readme.svg)
 
-# My Online Cookbook
+# Recipe Collector
+
+The recipe collector ist a recipe collecting blog for local use inside my home lan. 
+Code base is *My Online Cookbook* by @maeligg, a starter kit for [Eleventy](https://11ty.io)
+
+**The whole thing is translated to German language**
+
+## Changes:
+- site.json
+  - added variable sourceCaption
+- recipe.njk
+  - uses variable sourceCaption|default("Quelle") as label 
+
+
+# Original README.md
 
 My Online Cookbook is a starter kit to create your own website of recipes, using [Eleventy](https://11ty.io) and [Netlify CMS](https://www.netlifycms.org/). It is meant to be both highly accessible (including to non-developers), as well as fully customisable should you want to use it as a starting off point.
 

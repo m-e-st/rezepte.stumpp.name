@@ -1,11 +1,12 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
+    "name": "Rezeptsammlung",
+    "metaDescription": "Die Rezeptsammlung der Familie Sttumpp",
+    "author": "Familie Stumpp",
     "primaryColor": "#ffdb70",
     "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
-    "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
-    "ingredientsLabel": "Ingredients"
+    "sourceCaption": "Quelle",
+    "searchLabel": "Suche Rezepte über Name, Stichwort oder Zutaten",
+    "searchContainsLabel": "enthält",
+    "servingsLabel": "Portionen",
+    "ingredientsLabel": "Zutaten"
 }

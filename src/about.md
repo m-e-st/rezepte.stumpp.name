@@ -1,9 +1,13 @@
 ---
 layout: layouts/base.njk
-title: About
+title: Rezeptsammler
 bodyClass: u-free-text
 ---
-![A picture of a black pug wearing a pilot jacket](/img/about.jpg)
+![A picture of our family](/img/family.png)
 \
 \
-This page is for you to present yourself and/or explain what your cookbook is about.
+Diese Rezeptsammlung enthält alle möglichen Rezepte,
+welche uns in den letzten Jahren über den Weg gelaufen sind.
+Soweit bekannt, sind auch die Quellen angegeben.
+
+

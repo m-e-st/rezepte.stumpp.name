@@ -1,10 +1,11 @@
 ---
-title: Coconut lentil soup
+title: Coconut lentil soup / Kokosnuss-Linsen-Suppe
 image: /img/recipes/coconut-lentil-soup.jpg
 tags:
-    - Soup 🥣
-    - Vegetarian 🌿
-    - Vegan 🌱
+  - Suppen 🥣
+  - vegetarisch 🌿
+  - vegan 🌱
+  - englisch 🇬🇧
 sourceLabel: Bon Appétit
 sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
 servings: 4

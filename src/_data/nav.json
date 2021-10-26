@@ -5,11 +5,11 @@
             "url": "/"
         },
         {
-            "text": "All recipes",
+            "text": "Rezepte",
             "url": "/recipes/"
         },
         {
-            "text": "About",
+            "text": "Über",
             "url": "/about/"
         }
     ]
