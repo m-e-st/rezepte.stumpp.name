@@ -6,7 +6,6 @@ tags:
   - Kuchen 🍰
   - vegetarisch 🌿
   - Favorit ⭐
-  - englisch 🇬🇧
 time: 45 min
 servings: 4
 sourceLabel: BBC good food

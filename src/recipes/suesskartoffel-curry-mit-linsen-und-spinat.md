@@ -2,7 +2,7 @@
 title: Süßkartoffel-Curry mit Linsen und Spinat
 image: https://static.tegut.com/fileadmin/_processed_/e/9/csm_Curry-mit-Suesskartoffeln-Linsen-Spinat-1920x1080_96d3e69e5a.jpg
 tags:
-  - Asien 🗻
+  - asiatisch ⛩️
   - Curry 🍛
   - vegetarisch 🌿
 sourceLabel: Tegut

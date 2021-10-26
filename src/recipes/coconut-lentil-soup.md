@@ -1,36 +1,47 @@
 ---
-title: Coconut lentil soup / Kokosnuss-Linsen-Suppe
+title: Kokosnuss-Linsen-Suppe
 image: /img/recipes/coconut-lentil-soup.jpg
 tags:
-  - Suppen 🥣
+  - Suppe 🥣
   - vegetarisch 🌿
   - vegan 🌱
-  - englisch 🇬🇧
 sourceLabel: Bon Appétit
 sourceURL: https://www.bonappetit.com/recipe/vegan-coconut-lentil-soup
 servings: 4
 ingredients:
-- 1 large onion
-- 6 garlic cloves
-- 3 tablespoons of grated ginger
-- 2 tablespoons virgin coconut oil
-- 5 teaspoons curry powder
-- 0.5 teaspoon cayenne pepper
-- 400g can unsweetened coconut milk
-- 150g split red lentils
-- 8 tablespoons unsweetened shredded coconut
-- 2 teaspoons kosher salt
-- 300g spinach
-- 1 can crushed tomatoes
-- plain whole-milk or non-dairy yogurt (for serving; optional)
+- 1 große Zwiebel
+- 6 Knoblauchzehen
+- 3 EL geriebener Ingwer
+- 2 EL natives Kokosnussöl
+- 5 TL Currypulver
+- 0.5 TL Cayenne Pfeffer
+- 400g ungesüßte Kokosnussmilch aus der Dose
+- 150g geteilte rote Linsen
+- 8 EL ungesüßte Kokosraspeln
+- 2 TL Kosher Salz (grob gemahlenes Salz)
+- 300g Spinat
+- 1 Dose passierte Tomaten
+- Vollmilch oder milchfreier Joghurt (optional)
 ---
 
-Peel 1 onion and chop. Smash 6 garlic cloves with the flat side of your knife. Peel, then finely chop. Peel the ginger with a small spoon, then finely chop.
 
-Heat 2 Tbsp. oil in large Dutch oven over medium. Add onion and cook, stirring often, just until translucent, 6–8 minutes. Add garlic and ginger and cook, stirring often, until garlic is starting to turn golden, about 5 minutes. Add 5 tsp. curry powder and 0.5 tsp. cayenne and cook, stirring constantly, until spices are aromatic and starting to stick to bottom of pot, about 1 minute. Add the coconut milk and stir to loosen spices, then stir in the lentils, the shredded coconut, 2 tsp. salt, and 1 liter of water.
+Zwiebel schälen und hacken. Die sechs Knoblauchzehen mit der flachen Seite des Messers zerdrücken. 
+Schälen, dann fein hacken. Den Ingwer mit einem kleinen Löffel schälen, dann fein hacken.
 
-Bring to a boil over medium-high heat, then reduce heat to medium-low to keep soup at a gentle simmer. Cook, stirring occasionally, until lentils are broken down and soup is thickened, 25–30 minutes.
+Zwei Esslöffel Öl in einem großen holländischen Ofen auf mittlerer Stufe erhitzen. 
+Die Zwiebel hinzufügen und unter häufigem Rühren 6-8 Minuten kochen, bis sie glasig ist. 
+Knoblauch und Ingwer hinzufügen und unter häufigem Rühren kochen, bis der Knoblauch anfängt, 
+golden zu werden, etwa 5 Minuten. Fünf Teelöffel Currypulver und einen halben Teelöffel Cayennepfeffer 
+hinzugeben und unter ständigem Rühren kochen, bis die Gewürze aromatisch sind und anfangen, 
+am Topfboden zu haften, etwa 1 Minute. Die Kokosmilch hinzufügen und umrühren, um die Gewürze aufzulockern, 
+dann die Linsen, die Kokosraspeln, zwei Teelöffel Salz und 1 Liter Wasser einrühren.
 
-Meanwhile, coarsely chop the spinach. Add spinach and the tomatoes to pot and stir to combine. Taste and season with more salt. Simmer just to let flavors meld, about 5 minutes. Taste and season again with more salt.
+Bei mittlerer bis hoher Hitze zum Kochen bringen, dann die Hitze auf mittlere bis niedrige Stufe reduzieren, 
+um die Suppe leicht köcheln zu lassen. Unter gelegentlichem Rühren kochen, bis die Linsen aufgelöst 
+und die Suppe eingedickt ist (25-30 Minuten).
 
-Ladle soup into bowls. Top with yogurt, if desired.
+In der Zwischenzeit den Spinat grob hacken. Den Spinat und die Tomaten in den Topf geben und umrühren. 
+Abschmecken und mit mehr Salz würzen. Etwa 5 Minuten köcheln lassen, damit sich die Aromen vermischen. 
+Abschmecken und erneut mit Salz abschmecken.
+
+Die Suppe in Schüsseln schöpfen. Nach Belieben mit Joghurt garnieren.

@@ -2,10 +2,10 @@
 title: Courgette & lemon risotto / Zucchini-Zitronen-Risotto
 image: /img/recipes/courgette-lemon-risotto.jpg
 tags:
-  - Italien 🇮🇹
+  - italienisch 🇮🇹
   - vegetarisch 🌿
   - Favorit ⭐
-  - englisch 🇬🇧
+  - mediterran 🌊
 time: 50 min
 servings: 2
 sourceLabel: BBC good food

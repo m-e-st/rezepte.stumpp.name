@@ -2,7 +2,7 @@
 title: Rote-Linsen Curry mit Süßkartoffeln
 image: https://img.chefkoch-cdn.de/rezepte/3023041455110341/bilder/1363582/crop-600x400/rote-linsen-curry-mit-suesskartoffeln.jpg
 tags:
-  - Asien 🗻
+  - asiatisch ⛩️
   - Curry 🍛
   - vegetarisch 🌿
   - Favorit ⭐
