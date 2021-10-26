@@ -1,0 +1,25 @@
+.c-home {
+    &::before {
+        content: "";
+        position: absolute;
+        z-index: -10;
+        width: 100%;
+        height: 400px;
+        background-image: linear-gradient(to bottom, var(--color-primary), var(--color-white));
+        background-color: hsla(0, 0%, 100%, .3);
+        background-blend-mode: overlay;
+    }
+}
+
+.c-home__title-author {
+    background-color: var(--color-white);
+    padding: 2px 12px;
+    text-decoration: underline dashed;
+    text-underline-offset: 6px;
+}
+
+.c-home__highlighted-tag-link {
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+}
