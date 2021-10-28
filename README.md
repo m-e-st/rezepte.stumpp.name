@@ -21,6 +21,8 @@ Code base is *My Online Cookbook* by @maeligg, a starter kit for [Eleventy](http
   . new colors
     - "primaryColor": "#70dbff",
     - "secondaryColor": "#32816e",
+  - Home Page
+    - new two-line-header without separate *authorintitle*
     
     
     
