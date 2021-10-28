@@ -13,7 +13,7 @@ Code base is *My Online Cookbook* by @maeligg, a starter kit for [Eleventy](http
 - recipe.njk
   - uses variable sourceCaption|default("Quelle") as label (no access to a new var in site.json)
 - deploy to netlivy
-  - new Button: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector.git&stack=cms)
+  - new Button: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector&stack=cms)
 - colors
   - original colors
     - "primaryColor": "#ffdb70",
@@ -21,6 +21,9 @@ Code base is *My Online Cookbook* by @maeligg, a starter kit for [Eleventy](http
   . new colors
     - "primaryColor": "#70dbff",
     - "secondaryColor": "#32816e",
+    
+    
+    
 # Original README.md
 
 My Online Cookbook is a starter kit to create your own website of recipes, using [Eleventy](https://11ty.io) and [Netlify CMS](https://www.netlifycms.org/). It is meant to be both highly accessible (including to non-developers), as well as fully customisable should you want to use it as a starting off point.
@@ -29,7 +32,7 @@ Presentation & set-up instructions : https://myonlinecookbook.xyz/
 
 Demo (this is what you get out of the box) : [https://myonlinecookbook.netlify.app/](https://myonlinecookbook.netlify.app/)
 
-Get started now by forking the project or deploy to Netlify /REPO ADAPTED/: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector.git&stack=cms)
+Get started now by forking the project or deploy to Netlify /REPO ADAPTED/: [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector&stack=cms)
 
 ## Features
 
