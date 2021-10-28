@@ -5,6 +5,7 @@
     "primaryColor": "#70dbff",
     "secondaryColor": "#32816e",
     "sourceCaption": "Quelle",
+    "madeCaption": "powered by",
     "searchLabel": "Suche Rezepte über Name, Stichwort oder Zutaten",
     "searchContainsLabel": "enthält",
     "servingsLabel": "Portionen",
