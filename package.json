@@ -1,7 +1,7 @@
 {
-  "name": "my-online-cookbook",
+  "name": "Rezeptsammlung Stumpp",
   "version": "0.1.0",
-  "description": "A starter kit to make your own online recipe cookbook",
+  "description": "Die Rezeptsammlung der Familie Sttumpp",
   "main": "index.js",
   "scripts": {
     "dev:css": "sass src/scss/main.scss:src/_includes/css/main.css --watch --style=compressed",
