@@ -1,13 +1,13 @@
 {
-    "name": "Rezeptsammlung",
-    "metaDescription": "Die Rezeptsammlung der Familie Sttumpp",
-    "author": "Familie Stumpp",
-    "primaryColor": "#70dbff",
-    "secondaryColor": "#32816e",
-    "sourceCaption": "Quelle",
-    "madeCaption": "powered by",
-    "searchLabel": "Suche Rezepte über Name, Stichwort oder Zutaten",
-    "searchContainsLabel": "enthält",
-    "servingsLabel": "Portionen",
-    "ingredientsLabel": "Zutaten"
+  "primaryColor": "#70dbff",
+  "sourceCaption": "Quelle",
+  "author": "Familie Stumpp",
+  "name": "Rezeptsammlung",
+  "searchLabel": "Suche Rezepte über Name, Stichwort oder Zutaten",
+  "servingsLabel": "Portionen",
+  "searchContainsLabel": "enthält",
+  "secondaryColor": "#32816e",
+  "madeCaption": "powered by",
+  "ingredientsLabel": "Zutaten",
+  "metaDescription": "Die Rezeptsammlung der Familie Stumpp"
 }
