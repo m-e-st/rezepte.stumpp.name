@@ -4,6 +4,7 @@ image: /img/recipes/marmorkuchen.jpg
 tags:
   - Kuchen 🍰
   - Süßes 🍬
+  - Favorit ⭐
 time: 95 min
 sourceLabel: Kochbuch Moderne Küche
 ingredients:

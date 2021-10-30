@@ -1,5 +1,6 @@
 <!--
   -- 2021-10-27 - added site.sourceCaption
+  -- 2021-10-30 - added sourceLabel without sourceURL
   -->
 {% extends 'layouts/base.njk' %}
 
@@ -60,6 +61,8 @@
                 <div class="c-recipe__instructions-wrapper u-free-text">
                     {% if sourceLabel and sourceURL %}
                         <p>{{ site.sourceCaption | default("Source") }} : <a href="{{ sourceURL }}" target="_blank" rel="noopener">{{ sourceLabel }}</a></p>
+                    {% elif sourceLabel %} 
+                        <p>{{ site.sourceCaption | default("Source") }} : <span style="color: var(--color-secondary);">{{ sourceLabel }}</span></p>
                     {% endif %}
                     {{ content | safe }}
                 </div>
