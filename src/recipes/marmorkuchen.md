@@ -5,7 +5,7 @@ tags:
   - Kuchen 🍰
   - Süßes 🍬
   - Favorit ⭐
-time: 95 min
+time: 80 min
 sourceLabel: Kochbuch Moderne Küche
 ingredients:
   - 250g Magarine
@@ -21,6 +21,9 @@ ingredients:
   - 30g Kakao
   - 30g gehackte Mandeln
 ---
-Aus Magarine, 250g Zucker, Vanillinzucker, Salz, Eiern, Mehl, Backpulver, Rum und ⅛l Milch einen Rührteig bereiten. Ein Drittel des Teigs mit Kako, Mandeln, 25g Zucker und 2 EL Milch verrühren.
+Aus Magarine, 250g Zucker, Vanillinzucker, Salz, Eiern, Mehl, Backpulver, Rum und ⅛l Milch einen Rührteig bereiten. 
+Ein Drittel des Teigs mit Kakao, Mandeln, 25g Zucker und 2 EL Milch verrühren.
 
-Eine Kastenform (30cm) einfetten und schichtweise weißen, braunen und weißen Teig einfüllen, dann eine Gabel spiralenförmig durch alle Teigschichten ziehen. Im vorgeheziten Ofen 75 min. bei 175° bis 200° backen.
+Eine Kastenform (30cm) einfetten und schichtweise weißen, braunen und weißen Teig einfüllen, 
+dann eine Gabel spiralenförmig durch alle Teigschichten ziehen. 
+Im vorgeheizten Ofen 75 min. bei 175°C bis 200°C backen.

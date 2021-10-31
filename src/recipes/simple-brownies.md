@@ -36,7 +36,7 @@ wenn sie gerade noch warm oder vollständig abgekühlt sind.
 
 ***
 
-#### Tipps
+### Tipps
 
 Das Geheimnis der besten schaumigen Brownies ist, sie nicht zu überbacken. 
 Sie sollten in der Mitte wackeln, wenn Sie sie herausnehmen. 
