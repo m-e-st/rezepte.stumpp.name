@@ -5,7 +5,7 @@ tags:
   - Kuchen 🍰
   - Süßes 🍬
   - Favorit ⭐
-time: 80 min
+time: 95 min
 sourceLabel: Kochbuch Moderne Küche
 ingredients:
   - 250g Magarine
