@@ -16,7 +16,7 @@ ingredients:
   - 1 Prise Salz
 ---
 
-Schälen Sie eine Zwiebel* und halbieren Sie sie. 
+Schälen Sie eine Zwiebel und halbieren Sie sie. 
 
 Geben Sie die halbe Zwiebel mit fünf Esslöffeln Butter, einer Dose Tomaten 
 (ganz und geschält) und ein paar Prisen Salz in einen Topf.
