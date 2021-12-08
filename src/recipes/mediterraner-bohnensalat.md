@@ -9,18 +9,18 @@ sourceLabel: ELLE Republic
 sourceURL: https://ellerepublic.de/mediterraner-bohnensalat/
 servings: 6
 ingredients:
-  - 🥗 400g Kichererbsen (1 Dose) 
-  - 🥗 400g Weiße oder Cannellini-Bohnen (1 Dose)
+  - 🥗 400 g Kichererbsen (1 Dose) 
+  - 🥗 400 g Weiße oder Cannellini-Bohnen (1 Dose)
   - 🥗 1 kleine rote Zwiebel, klein gehackt 
-  - 🥗 200g Cherry-Tomaten, halbiert 
+  - 🥗 200 g Cherry-Tomaten, halbiert 
   - 🥗 1 Spitzpaprika, klein geschnitten 
   - 🥗 2 Mini-Gurken
-  - 🥗 280g Gegrillte Paprika in Öl (½ Glas)
+  - 🥗 280 g Gegrillte Paprika in Öl (½ Glas)
   - 🥗 10 Kalamata-Oliven (eine Hand voll) 
   - 🥗 1 EL Kapern in Lake, die Flüssigkeit abgeschüttet 
   - 🥗 4 EL frische glatte Petersilie (eine große Hand voll) 
   - 🥗 2 EL frische Minze, klein gehackt (eine Hand voll)
-  - 🥗 50g Feta-Käse, gekrümmelt (optional)
+  - 🥗 50 g Feta-Käse, gekrümmelt (optional)
  
   - 🧂 6 EL Natives Olivenöl extra (Dressing)
   - 🧂 3 EL Rotweinessig 
@@ -54,4 +54,9 @@ Dazu passt auch gut Hummus oder Tzatziki. 
 ***
     🥗 Zutaten für den Salat
     🧂 Zutaten für das Dressing
+
+    1 EL Olivenöl ≅ 10 g
+    1 EL Essig ≅ 10 ml
+    1 EL Zitronensaft ≅ 10 ml
+    1 EL Gewürz ≅ 6 g
 ***

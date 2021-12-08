@@ -15,11 +15,11 @@ ingredients:
 - 2 EL natives Kokosnussöl
 - 5 TL Currypulver
 - 0.5 TL Cayenne Pfeffer
-- 400g ungesüßte Kokosnussmilch aus der Dose
-- 150g geteilte rote Linsen
+- 400 g ungesüßte Kokosnussmilch aus der Dose
+- 150 g geteilte rote Linsen
 - 8 EL ungesüßte Kokosraspeln
 - 2 TL Kosher Salz (grob gemahlenes Salz)
-- 300g Spinat
+- 300 g Spinat
 - 1 Dose passierte Tomaten
 - Vollmilch oder milchfreier Joghurt (optional)
 ---
@@ -45,3 +45,11 @@ Abschmecken und mit mehr Salz würzen. Etwa 5 Minuten köcheln lassen, damit sic
 Abschmecken und erneut mit Salz abschmecken.
 
 Die Suppe in Schüsseln schöpfen. Nach Belieben mit Joghurt garnieren.
+
+***
+    1 EL Kokosnussöl ≅ 10 g
+    1 EL Essig ≅ 10 ml
+    1 TL Salz ≅ 5 g
+    1 EL Gewürz ≅ 6 g
+    1 TL Gewürz ≅ 2 g
+***

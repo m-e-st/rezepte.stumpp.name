@@ -8,11 +8,11 @@ sourceLabel: Rezeptschachtel
 sourceURL: www.rezeptschachtel.de/broetchen_rezept.html
 servings: 12
 ingredients:
-- 42g frische Hefe (1 Würfel)
+- 42 g frische Hefe (1 Würfel)
 - 0.5 TL Zucker
-- 250ml lauwarmes Wasser
-- 500g Weizenmehl Type 405
-- 75g Butter oder Margarine
+- 250 ml lauwarmes Wasser
+- 500 g Weizenmehl Type 405
+- 75 g Butter oder Margarine
 - 1.5 TL Salz
 - Mohn oder Sesam (optional)
 ---
@@ -56,3 +56,8 @@ Schüssel mit ca. 1 Tasse kochendem Wasser stellen. Der Wasserdampf hält die Br
 beim Backen feucht und verhindert so, dass die Oberfläche zu schnell fest wird und die Brötchen
 nicht so gut aufgehen. Die Brötchen im Ofen ca. 25-30 Minuten goldbraun backen. Dabei die
 Temperatur nach 5 Minuten auf 200 Grad senken
+
+***
+    1 TL Zucker ≅ 5 g
+    1 TL Salz ≅ 5 g
+***

@@ -11,14 +11,14 @@ sourceURL: https://www.chefkoch.de/rezepte/3023041455110341/Rote-Linsen-Curry-mi
 time: 35 min.
 servings: 3
 ingredients:
-- 450g  Süßkartoffeln
+- 450 g Süßkartoffeln
 - 1     große Paprikaschoten, rot
-- 200g  rote Linsen
+- 200 g rote Linsen
 - 2     mittelgroße Zwiebeln
 - 2     Knoblauchzehe(n)
 - 1 EL  Olivenöl
-- 500ml Kokosmilch
-- 250ml Gemüsebrühe
+- 500 ml Kokosmilch
+- 250 ml Gemüsebrühe
 - 2 EL  Tomatenmark
 - 2 TL  Currypulver
 - 2 TL  Kurkuma
@@ -38,4 +38,8 @@ Das Curry schmeckt am nächsten Tag meist noch besser und lässt sich auch gut e
     Arbeitszeit:        ca. 10 Min.
     Koch-/Backzeit:     ca. 25 Min.
     Schwierigkeitsgrad: simpel
+
+    1 EL Olivenöl ≅ 10 g
+    1 EL Tomatenmark ≅ 15 g
+    1 TL Gewürz ≅ 2 g
 ***

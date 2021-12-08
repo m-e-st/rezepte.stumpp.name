@@ -10,12 +10,12 @@ servings: 4
 sourceLabel: BBC good food
 sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
 ingredients:
-  - 225g Butter (ungesalzen)
-  - 450g Streuzucker
-  - 140g dunkle Schokolade (in Stücke gebrochen)
+  - 225 g Butter (ungesalzen)
+  - 450 g Streuzucker
+  - 140 g dunkle Schokolade (in Stücke gebrochen)
   - 5 Eier (mittelgroß)
-  - 110g Mehl
-  - 55g Kakao Pulver
+  - 110 g Mehl
+  - 55 g Kakao Pulver
 ---
 
 Heizen Sie den Ofen auf 190*C vor (Umluft: 170°C). 

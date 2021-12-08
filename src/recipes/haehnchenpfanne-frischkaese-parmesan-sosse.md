@@ -9,7 +9,7 @@ servings: 4
 sourceLabel: Lydias Foodblog
 sourceURL: http://lydiasfoodblog.de/haehnchenfilet-in-cremiger-frischkaese-parmesan-sosse/
 ingredients:
-  - 🐔 500g Hähnchenfilets oder Hähnchenburst
+  - 🐔 500 g Hähnchenfilets oder Hähnchenburst
   - 🐔 2 EL Olivenöl
   - 🐔 Salz
   - 🐔 Pfeffer
@@ -70,7 +70,10 @@ ingredients:
 ***
     🐔 Zutaten für das Hähnchen
     🥣 Zutaten für die Soße
-    
+
+    1 EL Olivenöl ≅ 10 g
+    1 EL Tomatenmark ≅ 15 g
+    1 EL Gewürz ≅ 6 g    
 ***
     
 ### Anmerkungen

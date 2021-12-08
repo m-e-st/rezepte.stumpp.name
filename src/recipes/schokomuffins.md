@@ -10,16 +10,16 @@ servings: 12
 sourceLabel: einfachbacken
 sourceURL: https://www.einfachbacken.de/rezepte/schokomuffins-saftig-schnell
 ingredients:
-  - 125g weiche Butter
-  - 150g Zucker
+  - 125 g weiche Butter
+  - 150 g Zucker
   - 1 Pck. Vanillezucker
   - 2 Eier
-  - 200g Zartbitterschokolade
-  - 200g Mehl
+  - 200 g Zartbitterschokolade
+  - 200 g Mehl
   - 4 EL Kakao
   - 1 Prise Salz
   - 2 TL Backpulver
-  - 175ml Milch 
+  - 175 ml Milch 
 ---
 
 Butter mit Zucker und Vanillezucker verrühren. Eier unterrühren. 
@@ -34,5 +34,6 @@ Die restlichen gehackten Schokostückchen auf den Muffins verteilen.
 Im vorgeheizten Ofen ca. 25 Min backen.
 
 ***
-
-### Informationen
+    1 EL Kakao ≅ 5 g
+    1 TL Backpulver ≅ 3 g
+***

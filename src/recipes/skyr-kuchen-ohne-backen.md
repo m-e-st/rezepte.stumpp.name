@@ -9,13 +9,13 @@ time: 200 min.
 sourceLabel: MERKUR.DE
 sourceURL: https://www.merkur.de/leben/genuss/skyr-kuchen-ohne-backen-kuehlschrank-rezept-sommer-kaesekuchen-90808175.html
 ingredients:
-  - 200g Butterkekse
-  - 100g Butter
-  - 400ml Schlagsahne
+  - 200 g Butterkekse
+  - 100 g Butter
+  - 400 ml Schlagsahne
   - 2 Päckchen Sahnesteif
-  - 1kg Skyr
+  - 1000 g Skyr
   - 4 Beutel Gelatine fix
-  - 140g Zucker
+  - 140 g Zucker
   - 2 Päckchen Vanillezucker
   - Beeren nach Wahl, z. B: Erdbeeren, Himbeeren oder Johannisbeeren 
 ---

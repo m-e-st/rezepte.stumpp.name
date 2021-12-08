@@ -14,20 +14,20 @@ ingredients:
   - 1 Zwiebel 
   - 1 Knoblauchzehe 
   - 3 EL Olivenöl 
-  - 400ml Gemüsebrühe 
-  - 400ml Kokosmilch 
+  - 400 ml Gemüsebrühe 
+  - 400 ml Kokosmilch 
   - 2 TL gem. Paprikapulver 
   - 1 TL gem. Kurkuma 
   - 1 TL gem. Ingwer 
   - 2 EL gem. Currypulver 
-  - 50g Tomatenmark 
+  - 50 g Tomatenmark 
   - 1 TL Oregano 
   - 1 TL Thymian 
   - 1.5 TL Salz 
   - 1 TL schwarzen Pfeffer 
   - 1 Msp. Chilipulver 
   - 1 Msp. Kreuzkümmel 
-  - 150g TK Erbsen 
+  - 150 g TK Erbsen 
   - 4 Portionen Basmati Reis
 ---
 
@@ -45,3 +45,10 @@ Derweil den Reis kochen.
 Zum Schluss die Erbsen in das Curry rühren, nochmals abschmecken und 
 10 Minuten ziehen lassen. Mit Reis servieren. 
 
+***
+    1 EL Olivenöl ≅ 10 g
+    1 EL Tomatenmark ≅ 15 g
+    1 TL Salz ≅ 5 g
+    1 EL Zitronensaft ≅ 10 ml
+    1 EL Gewürz ≅ 6 g
+***

@@ -10,7 +10,7 @@ sourceURL: https://www.tegut.com/rezept/suesskartoffel-curry-mit-linsen-und-spin
 time: 50 min.
 servings: 4
 ingredients:
-- 500g       Bio-Süßkartoffeln
+- 500 g      Bio-Süßkartoffeln
 - 1          Zwiebel
 - 1          Knoblauchzehe
 - 1          Stck. Ingwer
@@ -21,8 +21,8 @@ ingredients:
 - 1 Prise    Chilipulver
 - 150 ml     Gemüsebrühe
 - 1 Dose(n)  Tomaten
-- 100g       Rote Linsen
-- 125g       Baby-Spinat
+- 100 g      Rote Linsen
+- 125 g      Baby-Spinat
 - 3 Stengel  frischer Koriander
 - 2 TL       Zitronensaft
 ---
@@ -36,4 +36,8 @@ Rote Linsen zugeben, Curry ca. 10 Min. weitergaren lassen. Baby-Spinat waschen, 
 ***
     Zubereitungszeit:   ca. 25 Min.
     Dünst-/Garzeiten:   ca. 25 Min.  
+
+    1 EL Bratöl ≅ 10 g
+    1 TL Gewürz ≅ 2 g
+    1 TL Zitronensaft ≅ 5 ml  
 ***
