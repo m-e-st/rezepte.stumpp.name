@@ -9,15 +9,15 @@ servings: 4
 sourceLabel: lecker.de
 sourceURL: https://www.lecker.de/blitz-bandnudeln-mit-lachs-frischkaese-sosse-4980.html
 ingredients:
-  - 350g Bandnudeln 
+  - 350 g Bandnudeln 
   - Salz
   - Pfeffer 
-  - 400g Zucchini 
+  - 400 g Zucchini 
   - 1 Zwiebel 
-  - 400g Lachsfilet 
+  - 400 g Lachsfilet 
   - 2 EL Öl 
-  - 175g Doppelrahmfrischkäse 
-  - 125ml Weißwein 
+  - 175 g Doppelrahmfrischkäse 
+  - 125 ml Weißwein 
   - abgeriebene Schale und Saft von 1 Bio-Zitrone 
   - 1 Bund Basilikum 
 ---
@@ -32,3 +32,6 @@ Mit Salz, Pfeffer, Zitronenschale und -saft abschmecken.
 
 Basilikum waschen, grob hacken, einrühren. Nudeln abgießen. Mit Soße anrichten. 
 
+***
+    1 EL Öl ≅ 10 g
+***

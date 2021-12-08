@@ -1,29 +1,13 @@
 ---
-title: Neues Rezept
+title: Gnocci-Pfanne mit Schnitzelstreifen
 image: /img/recipes/food.svg
 tags:
   - neu ✨
   - Favorit ⭐
-  - Brot 🍞
-  - Curry 🍛
-  - Kuchen 🍰
-  - Salat️ 🥗
-  - Süßes 🍬
-  - Sushi 🍣
-  - vegan 🌱
-  - vegetarisch 🌿
   
-  - asiatisch ⛩️
-  - europäisch 🇪🇺
   - mediterran 🌊
 
-  - deutsch 🇩🇪
-  - französisch 🇫🇷
-  - griechisch 🇬🇷
   - italienisch 🇮🇹
-  - russisch 🇷🇺
-  - spanisch 🇪🇸
-  - türkisch 🇹🇷
 
 time: 99 min.
 servings: 1

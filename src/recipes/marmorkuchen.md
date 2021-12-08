@@ -29,7 +29,5 @@ dann eine Gabel spiralenförmig durch alle Teigschichten ziehen.
 Im vorgeheizten Ofen 75 min. bei 175°C bis 200°C backen.
 
 ***
-
-1 EL Milch &cong; 10 ml
-   
+    1 EL Milch ≅ 10 ml
 ***

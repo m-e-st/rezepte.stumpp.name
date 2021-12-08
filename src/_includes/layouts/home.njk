@@ -1,7 +1,9 @@
 ---
 bodyClass: c-home
 ---
-
+<!--
+  -- 2021-12-08 - added div for max size of pictures
+  -->
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
@@ -24,10 +26,12 @@ bodyClass: c-home
             <div class="l-container">
                 <h2 class="u-mb-large">{{ highlightedTitle }}</h2>
                 <div class="c-card__wrapper">
-                    {% set favouriteRecipes = collections[highlightedTag] | limit(4) %}
+                    {% set favouriteRecipes = collections[highlightedTag] | limit(6) %}
                     {% for recipe in favouriteRecipes %}
                         <div class="c-card">
+							<div style="max-height: 200px; overflow: hidden;">
                             {% recipeimage recipe.data.image, "c-card__image", recipe.data.title, "(min-width: 1150px) 25vw, (min-width: 850px) 33vw, (min-width: 550px) 50vw, 100vw" %}
+                            </div>
                             <div class="c-card__info">
                                 <div>
                                     {% for tag in recipe.data.tags %}
