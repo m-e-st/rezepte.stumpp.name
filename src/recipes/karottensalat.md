@@ -1,35 +1,40 @@
 ---
 title: Karottensalat
-image: /img/recipes/food.svg
+image: /img/recipes/karottensalat.jpg
 tags:
   - neu ✨
   - Favorit ⭐
+  - Anja 👩‍🍳
+
   - Salat️ 🥗
   - vegan 🌱
   - vegetarisch 🌿
 
-time: 99 min.
-servings: 1
-sourceLabel: Quelle
-sourceURL: https://google.com
+time: 25 min.
+servings: 2
+sourceLabel: Chefkoch
+sourceURL: https://www.chefkoch.de/rezepte/639911164965526/Karottensalat.html
 ingredients:
-  - 0 g Nichts
+  - 5 Karotten
+  - 1 Apfel
+  - 2 EL Sonnenblumenöl
+  - 2 EL Kräuteressig
+  - etwas Zitronensaft
+  - etwas mittelscharfer Senf
+  - Schnittlauch
+  - Salz und Pfeffer
 ---
 
-**text**
+Karotten und Apfel schälen, anschließend fein raspeln. Salz, Pfeffer, Schnittlauch, Öl, Kräuteressig, etwas Zitronensaft und etwas Senf dazugeben. Den Salat gut vermengen. Je nach Geschmack mit Maggi nachwürzen.
 
-**text**
+Den Salat bis zum Verzehr mindestens 30 Minuten kalt stellen, damit er gut durchziehen kann.
 
-***
-
-### Tipps
 
 ***
-    🥗 Zutaten für den Salat
-    🧂 Zutaten für das Dressing
-
-    1 EL Olivenöl ≅ 10 g
+    1 EL Öl ≅ 10 g
     1 EL Essig ≅ 10 ml
     1 EL Zitronensaft ≅ 10 ml
     1 EL Gewürz ≅ 6 g
 ***
+
+Je nach Geschmack mit Maggi nachwürzen.

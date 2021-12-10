@@ -1,6 +1,6 @@
 ---
 title: Tomatensoße für Spaghetti
-image: /img/recipes/tomatensosse-einfach.jpg
+image: /img/recipes/spaghetti-mit-tomatensosse.jpg
 tags:
   - italienisch 🇮🇹
   - mediterran 🌊
