@@ -1,57 +1,31 @@
 ---
-title: Neues Rezept
-image: /img/recipes/food.svg
+title: Rettich-Salat
+image: /img/recipes/rettichsalat.png
 tags:
   - neu ✨
-  - Favorit ⭐
   - Anja 👩‍🍳
-  - Micha 👨‍🍳
-  - Tobias 🧑‍🍳
-  
-  - Brot 🍞
-  - Fisch 🐟
-  - Curry 🍛
-  - Kuchen 🍰
   - Salat️ 🥗
-  - Süßes 🍬
-  - Sushi 🍣
-  - vegan 🌱
   - vegetarisch 🌿
-  
-  - asiatisch ⛩️
-  - europäisch 🇪🇺
-  - mediterran 🌊
 
-  - deutsch 🇩🇪
-  - französisch 🇫🇷
-  - griechisch 🇬🇷
-  - italienisch 🇮🇹
-  - russisch 🇷🇺
-  - spanisch 🇪🇸
-  - türkisch 🇹🇷
-
-time: 99 min.
-servings: 1
-sourceLabel: Quelle
-sourceURL: https://google.com
+time: 40 min.
+servings: 4
+sourceLabel: kochbar
+sourceURL: https://www.kochbar.de/rezept/167587/Rettich-Salat.html
 ingredients:
-  - 0 g Nichts
+  - 1 großer weißer Rettich
+  - 1 TL Salz
+  - 3 EL Sahne 30% Fett
+  - 2 EL Weißweinessig
+  - 1 EL Schnittlauch in Röllchen
 ---
 
-**text**
+Den Rettich schälen, dann auf der groben Seite einer Reibe raspeln, Salz untermischen und etwa 30 Minuten ziehen lassen. 
 
-**text**
-
+Nach dieser Zeit Sahne und Essig unterheben und mit Schnittlauchröllchen bestreut servieren. 
 <p></p>
 
 ***
-    🥗 Zutaten für den Salat
-    🧂 Zutaten für das Dressing
-
-    1 EL Olivenöl ≅ 10 g
+    1 TL Salz ≅ 5 g
+    1 EL Sahne ≅ 13g
     1 EL Essig ≅ 10 ml
-    1 EL Zitronensaft ≅ 10 ml
-    1 EL Gewürz ≅ 6 g
 ***
-
-### Tipps

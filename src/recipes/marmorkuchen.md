@@ -26,7 +26,7 @@ Ein Drittel des Teigs mit Kakao, Mandeln, 25g Zucker und 2 EL Milch verrühren.
 
 Eine Kastenform (30cm) einfetten und schichtweise weißen, braunen und weißen Teig einfüllen, 
 dann eine Gabel spiralenförmig durch alle Teigschichten ziehen. 
-Im vorgeheizten Ofen 75 min. bei 175°C bis 200°C backen.
+Im vorgeheizten Ofen 60 bis 75 min. bei 175°C backen.
 
 ***
     1 EL Milch ≅ 10 ml

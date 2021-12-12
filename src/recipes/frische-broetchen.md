@@ -2,6 +2,7 @@
 title: Frische Brötchen
 image: /img/recipes/frische-broetchen.jpg
 tags:
+  - Micha 👨‍🍳
   - Brot 🍞
   - vegetarisch 🌿
 sourceLabel: Rezeptschachtel

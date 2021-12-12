@@ -2,10 +2,10 @@
 title: PI Kuchen
 image: /img/recipes/pi-kuchen.png
 tags:
+  - Micha 👨‍🍳
   - Süßes 🍬
   - Kuchen 🍰
   - vegetarisch 🌿
-  - Favorit ⭐
 time: 80 min
 sourceLabel: heise online
 sourceURL: https://www.heise.de/news/Happy-Pi-Day-Wir-feiern-mit-Kuchen-und-Raspberry-Pi-co-5075899.html

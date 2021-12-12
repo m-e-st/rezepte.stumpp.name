@@ -8,7 +8,6 @@ tags:
   - vegan 🌱
   - vegetarisch 🌿
 
-
 time: 40 min.
 servings: 2
 sourceLabel: Kochkarussell
@@ -40,7 +39,6 @@ mit reichlich Oregano, Basilikum, Paprikapulver und Chili würzen.
 Mit Salz und Pfeffer abschmecken.
 
 Zu Spaghetti genießen.
-
 <p></p>
 
 ***

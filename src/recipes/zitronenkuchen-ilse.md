@@ -17,6 +17,11 @@ ingredients:
   - 100 g Puderzucker
   - Puderzucker zum Bestäuben
 ---
+***
+    Vorbereitungszeit: 20 min.
+    Backzeit: 75 min.
+***
+
 Aus Magarine, Zucker, Eiern, Mehl und Backpulver einen Rührteig bereiten. 
 Den Teig in eine gefettete Kastenform (30cm) füllen und im vorgeheizten Ofen backen. 
 
@@ -24,4 +29,4 @@ Etwas abkühlen lassen, dann mit einem Hölzchen oder einer Spicknadel häufig e
 den mit Puderzucker verrührten Zitronensaft darüberträufeln.
 Bis zum völligen Erkalten in der Form lassen, dann stürzen und mit Puderzucker bestäuben.
 
-Backzeit bei °C
+Backzeit bei 175 - 200°C: 75 min.

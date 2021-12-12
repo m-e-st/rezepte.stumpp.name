@@ -7,7 +7,7 @@ tags:
   - Favorit ⭐
 time: 45 min.
 servings: 12
-sourceLabel: einfachbacken
+sourceLabel: einfach backen
 sourceURL: https://www.einfachbacken.de/rezepte/schokomuffins-saftig-schnell
 ingredients:
   - 125 g weiche Butter
