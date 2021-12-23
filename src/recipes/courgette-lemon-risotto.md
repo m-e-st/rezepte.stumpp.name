@@ -1,6 +1,6 @@
 ---
 title: Zucchini-Zitronen-Risotto
-english: Courgette & lemon risotto / 
+english: Courgette & lemon risotto
 image: /img/recipes/courgette-lemon-risotto.jpg
 tags:
   - italienisch 🇮🇹
