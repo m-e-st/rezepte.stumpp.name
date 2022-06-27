@@ -15,7 +15,7 @@ ingredients:
   - 1 Becher Schmand 
   - 1 Becher Saure Sahne 
   - 300 ml Gemüsebrühe 
-  - Salz & Pfeffer 
+  - Salz &#044; Pfeffer 
   - 1 Bund Schnittlauch 
   - etwas in Rollen geschnittene Frühlingszwiebeln 
   - eventuell Erbsen und Schinken
