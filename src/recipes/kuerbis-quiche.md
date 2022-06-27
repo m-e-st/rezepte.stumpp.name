@@ -2,7 +2,6 @@
 title: Herzhafte Kürbis-Quiche
 image: /img/recipes/kuerbis-quiche.jpg
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   
   - vegetarisch 🌿

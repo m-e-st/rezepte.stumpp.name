@@ -2,7 +2,6 @@
 title: Spaghettisalat
 image: /img/recipes/spaghetti-salat.webp
 tags:
-  - neu ✨
   - Favorit ⭐
   - Anja 👩‍🍳
   - Salat️ 🥗

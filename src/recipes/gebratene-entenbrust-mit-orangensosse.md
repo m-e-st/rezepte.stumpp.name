@@ -2,7 +2,6 @@
 title: Gebratene Entenbrust mit Orangensoße
 image: /img/recipes/gebratene-entenbrust-mit-orangensosse.jpg
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   - deutsch 🇩🇪
   - Geflügel 🐔

@@ -2,7 +2,6 @@
 title: Karottensalat
 image: /img/recipes/karottensalat.jpg
 tags:
-  - neu ✨
   - Favorit ⭐
   - Anja 👩‍🍳
 

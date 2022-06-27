@@ -5,6 +5,7 @@ tags:
   - Kuchen 🍰
   - Süßes 🍬
   - Favorit ⭐
+  - Micha 👨‍🍳
 time: 95 min
 sourceLabel: Kochbuch Moderne Küche
 ingredients:

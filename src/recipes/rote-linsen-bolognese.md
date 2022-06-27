@@ -3,7 +3,6 @@ title: Rote Linsen-Bolognese
 
 image: /img/recipes/rote-linsen-bolognese.webp
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   - vegan 🌱
   - vegetarisch 🌿

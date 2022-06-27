@@ -2,8 +2,6 @@
 title: Linsen-Avocado-Salat mit Feta
 image: /img/recipes/linsen-avocado-salat.jpg
 tags:
-  - neu ✨
-
   - Anja 👩‍🍳
   - Salat️ 🥗
   - vegetarisch 🌿

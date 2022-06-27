@@ -2,7 +2,6 @@
 title: Kurbis Curry mit Kokosmilch
 image: /img/recipes/kuerbis-curry-mit-kokosmilch.jpg
 tags:
-  - neu ✨
   - Curry 🍛
   - vegan 🌱
   - vegetarisch 🌿

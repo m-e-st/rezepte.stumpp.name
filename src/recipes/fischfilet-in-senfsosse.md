@@ -2,7 +2,6 @@
 title: Fisch-Filet in Senfsoße
 image: /img/recipes/fischfilet-in-senfsosse.png
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   - Fisch 🐟
   

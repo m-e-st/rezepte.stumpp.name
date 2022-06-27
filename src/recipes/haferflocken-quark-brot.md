@@ -2,7 +2,6 @@
 title: Haferflocken-Quark-Brot
 image: /img/recipes/haferflocken-quark-brot.webp
 tags:
-  - neu ✨
   - Brot 🍞
   - vegetarisch 🌿
 

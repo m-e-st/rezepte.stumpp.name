@@ -2,7 +2,6 @@
 title: Knuspriger Kichererbsen-Tomaten-Salat
 image: /img/recipes/kichererbsen-tomaten-salat.jpg
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   - Salat️ 🥗
   - vegan 🌱

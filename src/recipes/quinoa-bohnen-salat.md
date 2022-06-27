@@ -2,7 +2,6 @@
 title: Quinoa-Bohnen-Salat
 image: /img/recipes/quinoa-bohnen-salat.jpg
 tags:
-  - neu ✨
   - Anja 👩‍🍳
 
   - Salat️ 🥗

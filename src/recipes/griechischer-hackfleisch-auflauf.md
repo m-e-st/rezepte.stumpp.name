@@ -2,8 +2,6 @@
 title: Griechischer Hackfleisch-Auflauf
 image: /img/recipes/griechischer-hackfleisch-auflauf.png
 tags:
-  - neu ✨
-  - Favorit ⭐
   - Anja 👩‍🍳
   - mediterran 🌊
   - griechisch 🇬🇷

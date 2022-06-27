@@ -2,7 +2,6 @@
 title: Süßkartoffel-Pfanne
 image: /img/recipes/suesskartoffelpfanne.png
 tags:
-  - neu ✨
   - vegetarisch 🌿
   
 time: 30 min.

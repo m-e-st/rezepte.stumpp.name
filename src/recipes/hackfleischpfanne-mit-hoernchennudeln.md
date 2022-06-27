@@ -2,7 +2,6 @@
 title: Hackfleischpfanne mit Hörnchennudeln
 image: /img/recipes/hackfleischpfanne-mit-hoernchennudeln.jpg
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   
 time: 25 min.

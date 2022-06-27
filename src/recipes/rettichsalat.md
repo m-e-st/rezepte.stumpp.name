@@ -2,7 +2,6 @@
 title: Rettich-Salat
 image: /img/recipes/rettichsalat.png
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   - Salat️ 🥗
   - vegetarisch 🌿

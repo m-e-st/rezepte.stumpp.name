@@ -2,7 +2,6 @@
 title: Gnocci-Pfanne mit Schnitzelstreifen
 image: /img/recipes/gnoccipfanne-mit-schnitzelstreifen.png
 tags:
-  - neu ✨
   - Anja 👩‍🍳
 
 time: 30 min.

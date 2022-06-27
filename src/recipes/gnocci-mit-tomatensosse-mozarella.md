@@ -2,7 +2,6 @@
 title: Gnocci mit Tomatensoße und Mozarella
 image: /img/recipes/gnocchi-tomate-mozzarella-pfanne.jpg
 tags:
-  - neu ✨
   - vegetarisch 🌿
   
   - mediterran 🌊
