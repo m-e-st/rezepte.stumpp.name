@@ -31,9 +31,9 @@ ingredients:
   - 1 Prise italienische Kräuter (getrocknet)
   - 1 Prise Chilipulver
   - 100 g Feta
-  - Salz, Pfeffer
+  - Salz &#044; Pfeffer
   - Prise Zucker
-  - Olivenöl, ein paar Spitzer
+  - ein paar Spitzer Olivenöl
 
 ---
 
