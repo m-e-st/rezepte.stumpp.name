@@ -19,15 +19,15 @@ ingredients:
     - 🥗 1 Zucchini
     - 🥗 1 Aubergine
     - 🥗 100 g veganer Streukäse (optional)
-    -🧂 140 g Cashewkerne
-    -🧂 1 Zwiebel
-    -🧂 2 Knoblauchzehen
-    -🧂 Olivenöl (zum Anbraten)
-    -🧂 240 ml Gemüsebrühe
-    -🧂 240 ml pflanzliche Milch
-    -🧂 50 g Hefeflocken
-    -🧂 1 TL Muskatnuss (gemahlen)
-    -🧂 Salz und Pfeffer
+    - 🧂 140 g Cashewkerne
+    - 🧂 1 Zwiebel
+    - 🧂 2 Knoblauchzehen
+    - 🧂 Olivenöl (zum Anbraten)
+    - 🧂 240 ml Gemüsebrühe
+    - 🧂 240 ml pflanzliche Milch
+    - 🧂 50 g Hefeflocken
+    - 🧂 1 TL Muskatnuss (gemahlen)
+    - 🧂 Salz und Pfeffer
 ---
 
 
