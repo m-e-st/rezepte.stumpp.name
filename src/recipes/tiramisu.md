@@ -1,6 +1,5 @@
 ---
 title: Tiramisu
-image: 
 tags:
   - KM 👻
   - vegetarisch 🌿
