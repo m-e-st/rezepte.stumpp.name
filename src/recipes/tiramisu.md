@@ -1,7 +1,8 @@
 ---
 title: Tiramisu
+image: /img/recipes/food.svg
 tags:
-  - KM 👻
+  - Katja 👩‍🍳
   - vegetarisch 🌿
   - süß 🍬
   - Dessert 🍰
