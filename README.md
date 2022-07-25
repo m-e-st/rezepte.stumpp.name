@@ -7,9 +7,10 @@ The recipe collector is a collection blog for cooking recipes for my family. It 
 ## Changes:
   * added variable sourceCaption(site.json)
   * uses variable sourceCaption|default("Quelle") as label (recipe.njk)
+  * added div to limit max size of pictures (recipes-list.njk)
   * removed *authorintitle* from home page 
   * changed primary color from **#ffdb70** to **#70dbff**
-  * changed secondary color from **#32816e** to **#32816e**
+  * unchanged secondary color  **#32816e**
   * Initial deploy to [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector&stack=cms)
 
 ## Wichtiger Hinweis an die Familie
