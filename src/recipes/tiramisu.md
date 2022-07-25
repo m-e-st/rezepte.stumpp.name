@@ -9,17 +9,17 @@ tags:
   - neu ✨
   
 time: 30 min.
-servings: 12 (kleine)
-sourceLabel: S&F
+servings: 12
+sourceLabel: S&F ???
 sourceURL: https://www.google.com/search?q=tiramisu
 ingredients:
-  - 250 g Löffelbiskuits
-  - 75 g Zucker
-  - 500 g Mascarpone
-  - 3 Eigelb
-  - Kaffee
-  - Amaretto oder Amarettosirup (alkoholfreie Variante)
-  - (Back)Kakaopulver zum Bestreuen
+    - 250 g Löffelbiskuits
+    - 75 g Zucker
+    - 500 g Mascarpone
+    - 3 Eigelb
+    - Kaffee
+    - Amaretto oder Amarettosirup (alkoholfreie Variante)
+    - (Back)Kakaopulver zum Bestreuen
 ---
 
 Eigelb mit dem Zucker und 20 ml Amaretto verrühren. Dann die gesamte Mascarpone unterrühren. (**MascarponeCreme**)
