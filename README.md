@@ -10,7 +10,7 @@ The recipe collector is a collection blog for cooking recipes for my family. It 
   * removed *authorintitle* from home page 
   * changed primary color from **#ffdb70** to **#70dbff**
   * changed secondary color from **#32816e** to **#32816e**
-  * Initial deploy to [Netlify] (https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector&stack=cms)
+  * Initial deploy to [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/m-e-st/recipe-collector&stack=cms)
 
 ## Wichtiger Hinweis an die Familie
 
@@ -22,5 +22,5 @@ Wem das zu kompliziert ist, der kann die Rezepte gerne in der Familien-Cloud abl
 
 "My Online Cookbook" is a starter kit to create your own website of recipes, using [Eleventy](https://11ty.io) and [Netlify CMS](https://www.netlifycms.org/). It is meant to be both highly accessible (including to non-developers), as well as fully customisable should you want to use it as a starting off point.
 
-Original README doc : <https://github.com/maeligg/my-online-cookbook#readme>
+Original README doc : <https://github.com/maeligg/my-online-cookbook#readme>  
 Set-up instructions : <https://myonlinecookbook.xyz/>
