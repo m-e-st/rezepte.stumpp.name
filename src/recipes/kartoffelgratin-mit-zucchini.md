@@ -2,7 +2,6 @@
 title: Kartoffelgratin mit Zucchini
 image: /img/recipes/kartoffelgratin-mit-zucchini.webp
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   
   - vegan 🌱

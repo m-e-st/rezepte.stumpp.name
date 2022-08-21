@@ -2,7 +2,6 @@
 title: Rinderrouladen klassisch
 image: /img/recipes/rinderrouladen-klassisch.jpg
 tags:
-  - neu ✨
   - Anja 👩‍🍳
   - deutsch 🇩🇪
 

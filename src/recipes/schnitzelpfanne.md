@@ -2,8 +2,8 @@
 title: Schnitzelpfanne
 image: /img/recipes/schnitzelpfanne.jpg
 tags:
-  - neu ✨
- 
+  - deutsch 🇩🇪
+
 
 time: 80 min.
 servings: 8

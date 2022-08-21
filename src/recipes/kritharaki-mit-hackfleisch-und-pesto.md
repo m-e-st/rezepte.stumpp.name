@@ -2,8 +2,6 @@
 title: Reisnudeln mit Hackfleisch, Pesto und Feta
 image: /img/recipes/kritharaki-mit-hackfleisch-und-pesto.jpg
 tags:
-  - Favorit ⭐
-  - neu ✨
   - Anja 👩‍🍳
   
   - mediterran 🌊
@@ -58,4 +56,3 @@ Beim Servieren zerbröckelten Feta und einige Spritzer Olivenöl auf das Gericht
 
 ***
 
-### Tipps

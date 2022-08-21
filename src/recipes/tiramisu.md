@@ -1,6 +1,6 @@
 ---
 title: Tiramisu
-image: /img/recipes/food.svg
+image: /img/recipes/tiramisu.webp
 tags:
   - Katja 👩‍🍳
   - vegetarisch 🌿
