@@ -6,5 +6,5 @@ metaTitle: Home
 highlightedTag: Favorit ⭐
 highlightedTitle: Einige Lieblingsrezepte
 highlightedLinkText: Alle Lieblingsrezepte
-allRecipesLabel: Hello world
+allRecipesLabel: Alle Rezepte
 ---
